@@ -1,0 +1,24 @@
+{
+  "name": "api-js-with-http-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael4141/api-js-with-http-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael4141/api-js-with-http-module/issues"
+  },
+  "homepage": "https://github.com/rafael4141/api-js-with-http-module#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
+  }
+}
